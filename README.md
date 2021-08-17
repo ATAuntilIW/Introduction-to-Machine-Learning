@@ -1,2 +1,2 @@
-# Introduction-to-Machine-Learning-to
+# Introductionto Machine Learning 
 Examples of machine learning applications
